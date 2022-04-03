@@ -17,7 +17,7 @@ El siguiente programa brinda un set de funciones para graficar las distribucione
 6. Distribución beta
 7. Distribución de Weibull
 8. Distribución LogNormal
-9. Distribución Erlanglar
+9. Distribución Erlang
 
 ### Instalación
 
